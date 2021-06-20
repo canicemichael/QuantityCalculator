@@ -1,0 +1,15 @@
+C:\Users\Ezugwu chukwuebuka\source\repos\QuantityCalculx\bin\Debug\netcoreapp3.1\QuantityCalculx.exe
+C:\Users\Ezugwu chukwuebuka\source\repos\QuantityCalculx\bin\Debug\netcoreapp3.1\QuantityCalculx.deps.json
+C:\Users\Ezugwu chukwuebuka\source\repos\QuantityCalculx\bin\Debug\netcoreapp3.1\QuantityCalculx.runtimeconfig.json
+C:\Users\Ezugwu chukwuebuka\source\repos\QuantityCalculx\bin\Debug\netcoreapp3.1\QuantityCalculx.runtimeconfig.dev.json
+C:\Users\Ezugwu chukwuebuka\source\repos\QuantityCalculx\bin\Debug\netcoreapp3.1\QuantityCalculx.dll
+C:\Users\Ezugwu chukwuebuka\source\repos\QuantityCalculx\bin\Debug\netcoreapp3.1\QuantityCalculx.pdb
+C:\Users\Ezugwu chukwuebuka\source\repos\QuantityCalculx\obj\Debug\netcoreapp3.1\QuantityCalculx.csprojAssemblyReference.cache
+C:\Users\Ezugwu chukwuebuka\source\repos\QuantityCalculx\obj\Debug\netcoreapp3.1\QuantityCalculx.Form1.resources
+C:\Users\Ezugwu chukwuebuka\source\repos\QuantityCalculx\obj\Debug\netcoreapp3.1\QuantityCalculx.csproj.GenerateResource.cache
+C:\Users\Ezugwu chukwuebuka\source\repos\QuantityCalculx\obj\Debug\netcoreapp3.1\QuantityCalculx.AssemblyInfoInputs.cache
+C:\Users\Ezugwu chukwuebuka\source\repos\QuantityCalculx\obj\Debug\netcoreapp3.1\QuantityCalculx.AssemblyInfo.cs
+C:\Users\Ezugwu chukwuebuka\source\repos\QuantityCalculx\obj\Debug\netcoreapp3.1\QuantityCalculx.csproj.CoreCompileInputs.cache
+C:\Users\Ezugwu chukwuebuka\source\repos\QuantityCalculx\obj\Debug\netcoreapp3.1\QuantityCalculx.dll
+C:\Users\Ezugwu chukwuebuka\source\repos\QuantityCalculx\obj\Debug\netcoreapp3.1\QuantityCalculx.pdb
+C:\Users\Ezugwu chukwuebuka\source\repos\QuantityCalculx\obj\Debug\netcoreapp3.1\QuantityCalculx.genruntimeconfig.cache

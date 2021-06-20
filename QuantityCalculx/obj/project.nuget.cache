@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PYJaU6OGOC+1DkbnHLD44ZBKrhodaMdXGkw91wzu1iG7ipELSJaSUVqfVvmcwMJdpcSGEPW2ghXKSFIoQF79fA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ezugwu chukwuebuka\\source\\repos\\QuantityCalculx\\QuantityCalculx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ezugwu chukwuebuka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
